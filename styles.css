@@ -1,0 +1,24 @@
+body {
+    background-color: orange;
+    font-family: Verdana;
+}
+
+
+p {
+
+    color: indigo;
+    font-size: 1.2rem;
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+h1 {
+    margin-left: 10px;
+    color: indigo;
+    font-size: 1.7rem;
+}
+
+img {
+    margin-left: 10px;
+    height: 250px;
+}
